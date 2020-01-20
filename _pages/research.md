@@ -6,11 +6,11 @@ redirect_from:
   - /research.html
 ---
 
-My research interests are mainly centered around statistical and computational aspects (and the interplay of the two) of modern-day machine learning techniques, motivated through considerations of how statistical methods are implemented (usually through some type of stochastic optimization procedure). In particular, here are a few topics which I’m currently thinking about:
+My research interests are mainly centered around statistical and computational aspects of modern-day machine learning techniques, motivated by issues arising in genomic data. In particular, here are a few topics which I’m currently thinking about:
 
-* **Applied probabilistic modeling** – Modern machine learning methods usually consist of minimizing an empirical risk in order to find an estimate of some desired quantity of interest. However, these problems usually end up being non-convex. This is problematic as it allows for the possibility that, when trying to find a minima in practice, we instead find only a local minima which fails to be a desirable estimator – for example, we may end up returning a classification rule which fails to work well when we use it on yet unseen data. This gives rise to two questions: can we show that such `bad local minima’ do not exist, or can we design an algorithm which avoids them altogether?
+* **Applied probabilistic modeling** – I'm currently developing methods for analyzing data from sc-RNAseq data. Specifically, I recently developed sMFMM, a model and inference procedure for normalization and clustering in single cell RNA sequening experiments. 
 
-* **Variational Inference for Discrete Structures** - hello 
+* **Variational Inference for Discrete Structures** - I'm developing variational methods for Bayesian inference of tree topologies describing cellular differentiation from genomic data. 
 
 ## Papers ##
 
