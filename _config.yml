@@ -8,13 +8,13 @@
 # Site Settings
 logo                     : "site-logo-88x88.png"
 locale                   : "en-US"
-title                    : "Andrew Davison"
+title                    : "Russell Kunes"
 title_separator          : "-"
-name                     : &name "Andrew Davison"
+name                     : &name "Russell Kunes"
 description              : &description ""
-url                      : https://aday651.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://russellkune.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "aday651/aday651.github.io"
+repository               : "russellkune/russellkune.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 140
@@ -81,7 +81,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Andrew Davison"
+  name             : "Russell Kunes"
   avatar           : "profile.png"
   avatar_mouse     : "profile_mouse.png"
   bio              : "PhD Student in Statistics at Columbia University"
@@ -89,7 +89,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "ad3395-at-columbia-dot-edu"
+  email            : "rk3064-at-columbia-dot-edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -98,13 +98,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "aday651"
+  github           : "russellkune"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/andrewdavison94/"
+  linkedin         : "https://www.linkedin.com/in/russell-kunes-1801307a/"
   orcid            : 
   pinterest        :
   soundcloud       :
