@@ -8,7 +8,7 @@ redirect_from:
 
 My research interests are mainly centered around statistical and computational aspects of modern-day machine learning techniques, motivated by issues arising in genomic data. In particular, here are a few topics which I’m currently thinking about:
 
-* **Applied probabilistic modeling** – I'm currently developing methods for analyzing data from sc-RNAseq data. Specifically, I recently developed sMFMM, a model and inference procedure for normalization and clustering in single cell RNA sequencing experiments. 
+* **Applied probabilistic modeling** – I'm currently developing methods for analyzing sc-RNAseq data. Specifically, I recently developed sMFMM, a model and inference procedure for normalization and clustering in single cell RNA sequencing experiments. 
 
 * **Variational Inference for Discrete Structures** - I'm developing variational methods for Bayesian inference of tree topologies describing cellular differentiation from genomic data. 
 
