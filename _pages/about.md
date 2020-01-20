@@ -12,4 +12,4 @@ I'm Russell, currently a first year PhD student in [Statistics](http://stat.colu
 
 Broadly, my research interests are in statistical methodology and machine learning for genomic data. See my [research](https://russellkune.github.io/research/) page for more information and recent publications. 
 
-Prior to beginning my PhD, I completed my undergraduate (BA) in [Statistics](https://statistics.fas.harvard.edu/) and Mathematics at Harvard College. In my spare time, I am a football (soccer) fan and player.
+Prior to beginning my PhD, I completed my undergraduate (BA) in [Statistics](https://statistics.fas.harvard.edu/) and Mathematics at Harvard College. 
