@@ -15,7 +15,7 @@ My research interests are mainly centered around statistical and computational a
 ## Papers ##
 
 * R. Kunes\*, J. Ren\*, F. Doshi Velez. (2020) Prediction Focused Topic Models via Vocab Filtering. In AISTATS ‘20 ([link](https://arxiv.org/pdf/1910.05495.pdf))
-* R. Kunes\*, J. Ren\*, F. Doshi Velez. (2019) Prediction Focused Topic Models for Electronic Health Records. Neural Information Processing Sytems Workshop in Machine Learning for Healthcare ‘19 ([link] https://arxiv.org/pdf/1911.08551.pdf)
+* R. Kunes\*, J. Ren\*, F. Doshi Velez. (2019) Prediction Focused Topic Models for Electronic Health Records. Neural Information Processing Sytems Workshop in Machine Learning for Healthcare ‘19 ([link](https://arxiv.org/pdf/1911.08551.pdf))
 
 
 ### Pre-prints and other manuscripts ###
