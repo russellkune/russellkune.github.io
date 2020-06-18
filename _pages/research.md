@@ -13,7 +13,7 @@ My research interests are mainly centered around statistical and computational a
 * **Variational Inference for Discrete Structures** - I'm developing variational methods for Bayesian inference of tree topologies describing cellular differentiation from genomic data. 
 
 ## Papers ##
-* R. Kunes, S. He, Y. Xiao, S. Tavare, D. Knowles. (2020) Supervised Tumor Cell Subtype Identification via SCAN. Submitted.
+* R. Kunes, S. He, Y. Xiao, S. Tavare, D. Knowles. (2020) Supervised Tumor Cell Subtype Identification via SCAN. ICML Workshop in Computational Biology 2020.
 * R. Kunes\*, J. Ren\*, F. Doshi Velez. (2020) Prediction Focused Topic Models via Vocab Filtering. In AISTATS ‘20 ([link](https://arxiv.org/pdf/1910.05495.pdf))
 * R. Kunes\*, J. Ren\*, F. Doshi Velez. (2019) Prediction Focused Topic Models for Electronic Health Records. Neural Information Processing Sytems Workshop in Machine Learning for Healthcare ‘19 ([link](https://arxiv.org/pdf/1911.08551.pdf))
 
