@@ -6,11 +6,10 @@ redirect_from:
   - /research.html
 ---
 
-My research interests are mainly centered around statistical and computational aspects of modern-day machine learning techniques, motivated by issues arising in genomic data. In particular, here are a few topics which I’m currently thinking about:
+My research interests are centered around developing computational methods for analyzing genomics data. In particular, here are a few topics which I’m currently thinking about:
 
-* **Applied probabilistic modeling** – I'm currently developing methods for analyzing sc-RNAseq data. I recently developed SCAN (supervised clustering and normalization) a model and inference procedure for normalization and clustering in single cell RNA sequencing experiments. 
-
-* **Variational Inference for Discrete Structures** - I'm developing variational methods for Bayesian inference of tree topologies describing cellular differentiation from genomic data. 
+* **Unsupervised Learning for Gene Expression Data** - I'm developing transfer learning approaches for integrating experimental and observational single cell RNA sequencing data.
+* **Variational Inference for Discrete Latents** - I'm developing gradient estimation methods for stochastic gradient descent for discrete models  where the gradient of the evidence lower bound can't be tractably computed.   
 
 ## Papers ##
 * R. Kunes, S. He, Y. Xiao, S. Tavare, D. Knowles. (2020) Supervised Tumor Cell Subtype Identification via SCAN. ICML Workshop in Computational Biology 2020.
@@ -20,6 +19,3 @@ My research interests are mainly centered around statistical and computational a
 ## Collaborations ##
 * Clonal Decomposition and DNA Replication States Defined by Scaled Single-Cell Genome Sequencing. Cell. 2019. ([link](https://www.sciencedirect.com/science/article/pii/S0092867419311766))
 
-### Pre-prints and other manuscripts ###
-
-* R. Kunes, T. Ke, Model Based Analysis of Citation Networks. 2018. Harvard Undergraduate Senior Thesis.  ([link](https://bit.ly/31qbLE4))
