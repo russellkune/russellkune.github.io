@@ -6,10 +6,9 @@ redirect_from:
   - /research.html
 ---
 
-My research interests are centered around developing computational methods for analyzing genomics data. In particular, here are a few topics which I’m currently thinking about:
+My research interests are centered around developing computational methods for analyzing genomics data.
 
-* **Learning about gene regulation from single cell data** -  Broadly, I'm interested in extracting rules of transcription from single cell gene expression and chromatin accessibility data using machine learning and interfacing with wet lab biologists to test these rules.
-* **Variational Inference for Discrete Latents** - I'm developing gradient estimation methods for stochastic gradient descent for discrete models  where the gradient of the evidence lower bound can't be tractably computed.   
+This list of papers is out of date. For an up to date, please visit my [google scholar](https://scholar.google.com/citations?user=NxkLyYEAAAAJ&hl=en&oi=ao).
 
 ## Papers ##
 * R. Kunes\*, T. Walle\*, T. Nawy, D. Pe'er. Supervised discovery of interpretable gene programs from single-cell data. 2023. ([link](www.biorxiv.org/content/10.1101/2022.12.20.521311v1))
