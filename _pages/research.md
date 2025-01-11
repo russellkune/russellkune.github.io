@@ -8,7 +8,7 @@ redirect_from:
 
 My research interests are centered around developing computational methods for analyzing genomics data.
 
-This list of papers is out of date. For an up to date, please visit my [google scholar](https://scholar.google.com/citations?user=NxkLyYEAAAAJ&hl=en&oi=ao).
+This list of papers is out of date. For an up to date list, please visit my [google scholar](https://scholar.google.com/citations?user=NxkLyYEAAAAJ&hl=en&oi=ao).
 
 ## Papers ##
 * R. Kunes\*, T. Walle\*, T. Nawy, D. Pe'er. Supervised discovery of interpretable gene programs from single-cell data. 2023. ([link](www.biorxiv.org/content/10.1101/2022.12.20.521311v1))
