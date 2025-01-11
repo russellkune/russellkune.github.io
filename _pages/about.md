@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I'm Russell, currently a fourth year PhD student in [Statistics](http://stat.columbia.edu/) at [Columbia University](https://www.columbia.edu/). 
+I'm Russell, currently a quantitative researcher at a hedge fund. I earned a PhD in statistics from Columbia in 2024. My research is in statistical machine learning and computational biology.
 
-Broadly, my research interests are in statistical methodology and machine learning for genomic data. See my [research](https://russellkune.github.io/research/) page for more information and recent publications. I'm grateful to be supported by a NSF Graduate Fellowship.
 
-Prior to beginning my PhD, I completed my undergraduate (BA) in [Statistics](https://statistics.fas.harvard.edu/) and Mathematics at Harvard College. 
