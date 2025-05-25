@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a researcher at a large quantitative hedge fund, and based in NYC. I earned a PhD in statistics from Columbia in 2024. My research is in statistical machine learning and computational biology.
+I'm currently a researcher at a quantitative hedge fund, and based in NYC. I earned a PhD in statistics from Columbia in 2024. My research is in statistical machine learning and computational biology.
 
 
